@@ -31,7 +31,7 @@
   clear: both;
   margin: 10 -10px;
   padding: 5px;
-  font-size: 1.1em;
+  font-size: 0.9em;
 }
 .gh-profile-widget .languages::before {
   position: left;
